@@ -1,2 +1,4 @@
 .venv/
 .DS_Store
+
+final_part1/__pycache__/
